@@ -6,5 +6,7 @@ void first_function()
 //do 4
 //do 5
 //do 6
+//go 7
+//do 8
 }
 
